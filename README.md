@@ -1,5 +1,5 @@
 ## Oie eu sou a Danielle Seragioli
-Estágiaria de desenvolvimento iOS na Foursys e estudante
+Estágiaria de desenvolvimento iOS na Foursys e estudante <br>
 de Análise e Desenvolvimento de Sistemas na Mackenzie.
 
 
