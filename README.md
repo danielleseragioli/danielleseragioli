@@ -1,4 +1,4 @@
-## Oie eu sou a Danielle Seragioli
+## Oie, eu sou a Danielle Seragioli
 Estágiaria de desenvolvimento iOS na Foursys e estudante <br>
 de Análise e Desenvolvimento de Sistemas na Mackenzie.
 
