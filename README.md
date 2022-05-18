@@ -1,6 +1,5 @@
 ## Oie, eu sou a Danielle Seragioli
 
- <img align="right" height="100" width="100" src="https://spotty-grenadilla-d26.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa25c7f5-f4d1-4ff0-b5d2-28bcd23c2e1c%2FUntitled.png?table=block&id=e5c0efc2-09a0-415c-9e56-8c6eadc169c0&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=2000&userId=&cache=v2">
  
 Trainee de desenvolvimento iOS na Foursys e estudante <br>
 de Análise e Desenvolvimento de Sistemas na Mackenzie.
