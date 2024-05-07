@@ -1,11 +1,11 @@
 ## Oie, eu sou a Danielle Seragioli 
 
 (ou só Dani 😸) <br><br>
-Desenvolvedora iOS formada em Análise <br>
+→ desenvolvedora iOS formada em Análise <br>
 Desenvolvimento de Sistemas pelo Mackenzie.
 <br><br>
 ✨ | Gosto também de UX/UI design 
-<br>Da uma olhadinha no meu Medium
+<br>Da uma olhadinha no meu Medium ↴
 
 
 <div "display: inline_block"> 
