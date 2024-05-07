@@ -1,8 +1,11 @@
-## Oie, eu sou a Danielle Seragioli
+## Oie, eu sou a Danielle Seragioli 
 
- 
-Trainee de desenvolvimento iOS na Foursys e estudante <br>
-de Análise e Desenvolvimento de Sistemas na Mackenzie.
+(ou só Dani 😸) <br><br>
+Desenvolvedora iOS formada em Análise <br>
+Desenvolvimento de Sistemas pelo Mackenzie.
+<br><br>
+✨ | Gosto também de UX/UI design 
+<br>Da uma olhadinha no meu Medium
 
 
 <div "display: inline_block"> 
@@ -12,6 +15,12 @@ de Análise e Desenvolvimento de Sistemas na Mackenzie.
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 ##
 </div>
+🇵🇹 | Lisboa
+<div "display: inline_block"> 
+
+</div>
+
+<!--
 <div style="display: inline_block" align="center">
   <img align="center" alt="Swift" height="30" width="30" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,16 +34,8 @@ de Análise e Desenvolvimento de Sistemas na Mackenzie.
 
 
  
-<div align="center"> 
- 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 
-
-<!--
 **danielleseragioli/danielleseragioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
