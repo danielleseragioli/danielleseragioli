@@ -1,6 +1,5 @@
 ## Oie, eu sou a Danielle Seragioli 
 
-(ou só Dani 😸) <br><br>
 → desenvolvedora iOS formada em Análise <br>
 Desenvolvimento de Sistemas pelo Mackenzie.
 <br><br>
