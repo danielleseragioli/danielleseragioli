@@ -5,7 +5,7 @@ in Systems Analysis Development <br>
 from Mackenzie University.
 <br><br>
 I also enjoy UX/UI design :) 
-<br> ✨ | Check out my Medium   ↴
+<br>  ✨  Check out my Medium   ↴
 
 
 <div "display: inline_block"> 
