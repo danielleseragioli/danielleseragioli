@@ -1,10 +1,11 @@
-## Oie, eu sou a Danielle Seragioli 
+## Hey, Danielle Seragioli here
 
-→ desenvolvedora iOS formada em Análise <br>
-Desenvolvimento de Sistemas pelo Mackenzie.
+→ iOS developer with a degree <br>
+in Systems Analysis Development <br>
+from Mackenzie University.
 <br><br>
-✨ | Gosto também de UX/UI design 
-<br>Da uma olhadinha no meu Medium ↴
+✨ | I also enjoy UX/UI design :) 
+<br> Check out my Medium   ↴
 
 
 <div "display: inline_block"> 
