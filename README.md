@@ -1,4 +1,4 @@
-## Hey, Danielle Seragioli here
+## Hey, Dani here 
 
 → iOS developer with a degree <br>
 in Systems Analysis Development <br>
