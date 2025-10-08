@@ -1,13 +1,5 @@
 ## Hey, Dani here 
-
-→ iOS developer with a degree <br>
-in Systems Analysis Development <br>
-from Mackenzie University.
-<br><br>
-I also enjoy UX/UI design :) 
-<br>  ✨  Check out my Medium 
-
-
+<br>
 <div "display: inline_block"> 
 
   <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
