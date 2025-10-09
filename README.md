@@ -1,15 +1,19 @@
-## Hey, Dani here 
+## Hey, Dani here ✨
 <br>
 <div "display: inline_block"> 
 
-  <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 ##
 </div>
 🇵🇹 | Porto
 <div "display: inline_block"> 
-
+</div>
+ <br>
+<div align="left">
+ 
+ ![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ForxtLiaT9Oe0JhFKN/giphy.gif)
 </div>
 
 <!--
