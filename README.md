@@ -7,7 +7,7 @@
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 ##
 </div>
-🇵🇹 | Porto
+🇵🇹 | based in Porto
 <div "display: inline_block"> 
 </div>
  <br>
