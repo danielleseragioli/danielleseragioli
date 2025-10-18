@@ -13,7 +13,7 @@
  <br>
 <div align="left">
  
- ![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ForxtLiaT9Oe0JhFKN/giphy.gif)
+ ![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif)
 </div>
 
 <!--
@@ -28,20 +28,32 @@
   
 </div>
 
+VOMPUTADOR COLORIDO:
 
+
+ ![Funny GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif)
  
+TECLADO DIGITANDO:
+ ![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ForxtLiaT9Oe0JhFKN/giphy.gif)
+ou esse
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyOG1vYm1rdHB6c3hldnNxMjdkamh0a2l6YmR5c29tbXVsYTZmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3Z5ChEO3lFSb3q/giphy.gif
+ou esse
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtajZ0dThyNnNyd3czaTZkZDYxcHJqNGpkeXBlMGhzbTBhcHl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZQvimlS7kuGc/giphy.gif
 
+
+TERMINAL:
+ ![Funny GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk3c3ltdjQ5MGlqbjdqa3BvZTBsZHRrMXd2dGppNWU0cDR3amhtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VF0WIRjfwvFERopBFY/giphy.gif)
+
+ https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ2dGEybGQzZHRuNjN4NmxyNzRzaTdndjR6M3N1dXJscmptc2hteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Ku1jY6PLIiWi0rC/giphy.gif
+
+GATINHO:
+ ![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVybms2NDFqdndyaXdiMXpudmpmOHh2dGozbWZrbDF0enAyM3JuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+
+ bob esponja:
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzMjEyaXB0Nzk3cHRjaHBwN2QzMWl5dTRzajEzN2pkZm10cWZ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif
+ menina ligando :
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdmeHYyM25qcG4zdTVtaG5zeGRpMHg5ZGEyc2xxZjdwcmxveDczZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLhSYE7l8g3oDZXXfv/giphy.gif
 
 **danielleseragioli/danielleseragioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
