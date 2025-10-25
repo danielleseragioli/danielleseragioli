@@ -1,4 +1,4 @@
-## Hey, Dani here 💫
+## hey, Dani here 💫
 <br>
 <div "display: inline_block"> 
 
