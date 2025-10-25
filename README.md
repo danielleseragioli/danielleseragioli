@@ -1,21 +1,23 @@
-## Hey, Dani here ✨
+## Hey, Dani here 💫
 <br>
 <div "display: inline_block"> 
 
 <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
+
 ##
-</div>
-🇵🇹 | based in Porto
-<div "display: inline_block"> 
-</div>
- <br>
-<div align="left">
- 
- ![Funny GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtajZ0dThyNnNyd3czaTZkZDYxcHJqNGpkeXBlMGhzbTBhcHl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZQvimlS7kuGc/giphy.gif
-)
-</div>
+
+
+###
+
+<img align="left" height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off"  />
+
+###
+
+<img align="left" height="277" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif"  />
+
+###
 
 <!--
 <div style="display: inline_block" align="center">
@@ -56,5 +58,5 @@ https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzMjEyaXB0Nzk3cHRjaHBwN2QzMW
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdmeHYyM25qcG4zdTVtaG5zeGRpMHg5ZGEyc2xxZjdwcmxveDczZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLhSYE7l8g3oDZXXfv/giphy.gif
 
 **danielleseragioli/danielleseragioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtajZ0dThyNnNyd3czaTZkZDYxcHJqNGpkeXBlMGhzbTBhcHl2ayZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/bZQvimlS7kuGc/giphy.gif" alt="Funny GIF" width="400">
 
