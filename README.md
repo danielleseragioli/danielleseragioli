@@ -18,6 +18,18 @@
 
 ###
 
+<div "display: inline_block"> 
+  
+[![LIBFT](https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp)](https://github.com/danielleseragioli/libft)
+![B2BR](https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp)
+![PRINTF](https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp)
+
+
+</div>
+
+
+
+
 <!--
 ![ 42](https://img.shields.io/badge/%20Porto-000000?style=for-the-badge&logo=42&logoColor=white)
 
