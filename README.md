@@ -5,13 +5,12 @@
 <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
-
 ##
 
 
 ###
 
-<img align="left" height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off"  />
+<!-- <img align="left" height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off"  /> -->
 
 ###
 
@@ -20,6 +19,8 @@
 ###
 
 <!--
+![ 42](https://img.shields.io/badge/%20Porto-000000?style=for-the-badge&logo=42&logoColor=white)
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="Swift" height="30" width="30" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
