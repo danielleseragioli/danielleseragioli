@@ -25,6 +25,10 @@
   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
 </a>
 
+<a href="https://github.com/danielleseragioli/ft_printf">
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+</a>
+
 </div>
 
 
