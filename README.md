@@ -1,4 +1,4 @@
-## hey, Dani here 💫
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=BF5AC7&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
 <br>
 <div "display: inline_block"> 
 
