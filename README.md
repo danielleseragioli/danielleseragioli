@@ -11,11 +11,13 @@
 ###
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <div style="display: flex; gap: 20px;">
-    <img height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off" />
-    <img height="277" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" />
-  </div>
+    
+  <img 
+    height="277" 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif"
+    style="margin-bottom: 40px;" 
+  /> 
+    
 
   <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
@@ -43,6 +45,9 @@
 
 
 <!--
+
+<img height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off" /> 
+
 ![ 42](https://img.shields.io/badge/%20Porto-000000?style=for-the-badge&logo=42&logoColor=white)
 
 <div style="display: inline_block" align="center">
