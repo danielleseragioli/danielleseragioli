@@ -10,26 +10,33 @@
 
 ###
 
-<!-- <img align="left" height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off"  /> -->
-<img align="left" height="277" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px; margin-left: 300px; align-items: center;">
+  <div style="display: flex; gap: 20px;">
+    <img height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off" />
+    <img height="277" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" />
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
   <a href="https://github.com/danielleseragioli/libft">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp">
+      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp">
   </a>
 
   <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp">
 
   <a href="https://github.com/danielleseragioli/ft_printf">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
   </a>
 
   <a href="https://github.com/danielleseragioli/get_next_line">
-    <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
   </a>
 
+  </div>
+
 </div>
+
 
 
 
