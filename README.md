@@ -17,7 +17,7 @@
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif"
     style="margin-bottom: 40px;" 
   /> 
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a>
+    <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> -->
 
   <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
