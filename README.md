@@ -14,7 +14,7 @@
     
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="180" /><a href="https://github.com/danielleseragioli">
-      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%232EFFF1&fg=%23FCF2FD&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23DB29FF&shadowColor=%23798B10&shadowSize=10&borderWidth=3&bgColor=%230A0F24" height="180" /></a>
+      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" /></a>
 </p>
 
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> 
