@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=BF5AC7&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=B7D5E4&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
 <br>
 <div "display: inline_block"> 
 
@@ -13,8 +13,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="180" /><a href="https://github.com/danielleseragioli">
-      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" /></a>
+      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExeXJ6aXc0MDNyeHFpN2k1eGNzOGV5N2RuNWNnMm5zNTRkMG5rY3A3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FbXX4fJKMstL1K%2Fgiphy.gif&accent=%23F3F9FB&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23A59C9C&borderColor=%235A7C53&shadowColor=%23303030&shadowSize=24&borderWidth=1&bgColor=%230A0F24" height="180" /></a>
 </p>
 
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> 
@@ -45,6 +44,14 @@
 
 
 <!--
+
+
+imagens antigas:
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="180" /><a href="https://github.com/danielleseragioli">
+      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" /></a>
+</p>
+
 
 <img height="400" src="https://badge.mediaplus.ma/colorfulwaves/dseragio?1337Badge=off&UM6P=off" /> 
 
