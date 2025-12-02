@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=F9BCA4&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=F9BCA4&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" />
+</a>
 
 <div "display: inline_block"> 
 
@@ -7,10 +8,6 @@
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-
-###
 
 </div>
 
@@ -26,6 +23,7 @@ BDGE
 
 imagens antigas:
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     
