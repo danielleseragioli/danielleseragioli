@@ -9,6 +9,14 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
 
+
+
+
+
+
+<!--
+BDGE
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1000&color=F9BCA4&repeat=false&width=435&height=20&lines=tech+stack" alt="Typing SVG" /></a><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
@@ -26,16 +34,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-<!--
-BDGE
 
 <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" />
 
