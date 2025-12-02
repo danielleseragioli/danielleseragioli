@@ -1,20 +1,35 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=C05AC8&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&size=30&duration=5020&pause=1000&color=F9BCA4&background=FFFFFF00&width=435&lines=hey%2C+Dani+here+%3A+)" alt="Typing SVG" /></a>
+
 <div "display: inline_block"> 
 
 <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
-##
+
+![](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ2ODAyMTksIm5iZiI6MTc2NDY3OTkxOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAyVDEyNTE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlNjFmNjRmNDc2ZDZhNDZlYmEyZWI0M2ZkZjQwOTczZmJjYzkxMWI1YmUzZmU0M2VlYWY2MTAwM2NkOGRkZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JAbQJxMSAE-NvYOS1_QQ1xTUO_SKLHd_AeYLDcSCyCA)
 
 
 ###
 
+</div>
+
+
+
+
+
+
+<!--
+BDGE
+
+<img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" />
+
+imagens antigas:
+
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     
 <p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="180" /><a href="https://github.com/danielleseragioli">
-      <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExaWhtYjI2N3BsNWx5czZzM2M5b3c3cGQ0NG96ZW1zMjY2ZGE5ODM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FForxtLiaT9Oe0JhFKN%2Fgiphy.gif&accent=%23F494FF&fg=%23F193FC&titleCol=%23ED90F7&bodyTextColor=%23F494FF&borderColor=%23C466CC&shadowColor=%23706B6B&shadowSize=9&borderWidth=5&bgColor=%23FFFFFF" height="180" /></a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="200" /><a href="https://github.com/danielleseragioli"></a>
 </p>
 
 <!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> 
@@ -33,21 +48,17 @@
 
   <a href="https://github.com/danielleseragioli/get_next_line">
       <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
-  </a> -->
+  </a> 
 
   </div>
 
-</div>
 
 
 
 
 
 
-<!--
 
-
-imagens antigas:
 
 <p align="left">
       <img src="https://badge42-backend.onrender.com/api/badge/darkblue/dseragio?gifUrl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExeXJ6aXc0MDNyeHFpN2k1eGNzOGV5N2RuNWNnMm5zNTRkMG5rY3A3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw%2FbXX4fJKMstL1K%2Fgiphy.gif&accent=%23F3F9FB&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23A59C9C&borderColor=%235A7C53&shadowColor=%23303030&shadowSize=24&borderWidth=1&bgColor=%230A0F24" height="180" /></a>
