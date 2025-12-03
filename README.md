@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
-<img src="https://file.notion.so/f/f/d1b02b65-6f05-41fb-9868-69f5ce300038/560496e7-8c42-4996-a38b-46a445e20eba/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d_(1).gif?table=block&id=2bd113de-b78e-80d5-8b88-d2f1ae359bab&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&expirationTimestamp=1764741600000&signature=m8gZdq6eNb2OXPuOCHLNaBDy9fSvinK4ekEYAiMOl7o" width="100%"> <br>
+<img src="https://file.notion.so/f/f/d1b02b65-6f05-41fb-9868-69f5ce300038/560496e7-8c42-4996-a38b-46a445e20eba/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d_(1).gif?table=block&id=2bd113de-b78e-80d5-8b88-d2f1ae359bab&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&expirationTimestamp=1764784800000&signature=Td_gMd2BBEdOv0ujvRFCFTAk0rKHaVwc6e2A9-EPhM0" width="100%"> <br>
 
 
 
