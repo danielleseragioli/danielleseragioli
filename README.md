@@ -10,7 +10,23 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
 
 
+<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
+  <a href="https://github.com/danielleseragioli/libft">
+      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
+  </a>
+
+  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp">
+
+  <a href="https://github.com/danielleseragioli/ft_printf">
+      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+  </a>
+
+  <a href="https://github.com/danielleseragioli/get_next_line">
+      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+  </a> 
+
+  </div>
 
 
 
