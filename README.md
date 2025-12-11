@@ -12,6 +12,11 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
+
+  <a href="https://github.com/danielleseragioli/piscineReloaded">
+      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png">
+  </a>
+  
   <a href="https://github.com/danielleseragioli/libft">
       <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
   </a>
