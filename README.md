@@ -16,14 +16,14 @@
       <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
   </a>
 
-  <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp">
+  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
 
   <a href="https://github.com/danielleseragioli/ft_printf">
-      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
   </a>
 
   <a href="https://github.com/danielleseragioli/get_next_line">
-      <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
   </a> 
 
   </div>
