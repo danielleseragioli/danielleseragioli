@@ -12,10 +12,10 @@
 <!-- PROJETOS C -->
 
 <br><br>
-<img align="left" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
+<img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
 <br>
 
-<table align="left">
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/danielleseragioli/piscineReloaded">
@@ -53,15 +53,14 @@
     </td>
   </tr>
 </table>
+<br>
 
 
 
 <!-- PROJETOS SWIFT -->
 
 <br><br>
-<img align="left" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3A7f6da860-2f03-4173-81bf-6c53dc598518%3Adivider2_(1).png?table=block&id=2c8113de-b78e-8083-a482-f1e1ffbfac07&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" />
-<br>
-
+<img width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3A7f6da860-2f03-4173-81bf-6c53dc598518%3Adivider2_(1).png?table=block&id=2c8113de-b78e-8083-a482-f1e1ffbfac07&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" />
 
 <table align="left">
   <tr>
