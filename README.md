@@ -32,13 +32,15 @@
     </td>
 
   <td align="center">
-      <a href="https://github.com/danielleseragioli/born2beroot">
-        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" width="120" height="120"/>
+      <a href="https://github.com/danielleseragioli/42_exam_rank02">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/exam2_pin.png" width="120" height="120"/>
       </a><br/>
-      <p>born2beroot</p>
+      <p>exam rank 02</p>
     </td>
+  </tr>
 
-  <td align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/danielleseragioli/ft_printf">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png" width="120" height="120"/>
       </a><br/>
@@ -51,9 +53,12 @@
       </a><br/>
       <p>get_next_line</p>
     </td>
+
+  
   </tr>
 </table>
 <br>
+
 
 
 
