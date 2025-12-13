@@ -7,31 +7,157 @@
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> 
+
+<!-- PROJETOS C -->
+
+<br><br>
+<img align="left" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
+<br>
+
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/piscineReloaded">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png" width="120" height="120"/>
+      </a><br/>
+      <p>piscineReloaded</p>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/danielleseragioli/libft">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png" width="120" height="120"/>
+      </a><br/>
+      <p>libft</p>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/danielleseragioli/born2beroot">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" width="120" height="120"/>
+      </a><br/>
+      <p>born2beroot</p>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/danielleseragioli/ft_printf">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png" width="120" height="120"/>
+      </a><br/>
+      <p>ft_printf</p>
+    </td>
+
+  <td align="center">
+      <a href="https://github.com/danielleseragioli/get_next_line">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png" width="120" height="120"/>
+      </a><br/>
+      <p>get_next_line</p>
+    </td>
+  </tr>
+</table>
 
 
-<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
+
+<!-- PROJETOS SWIFT -->
+
+<br><br>
+<img align="left" width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3A7f6da860-2f03-4173-81bf-6c53dc598518%3Adivider2_(1).png?table=block&id=2c8113de-b78e-8083-a482-f1e1ffbfac07&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" />
+<br>
 
 
-  <a href="https://github.com/danielleseragioli/piscineReloaded">
-      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png">
-  </a>
-  
-  <a href="https://github.com/danielleseragioli/libft">
-      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png">
-  </a>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/dramaland">
+        <img src="https://github.com/danielleseragioli/dramaland/blob/main/Dramaland/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>dramaland</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/introToRxSwift">
+        <img src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ac18f87f4-1a9c-4ef1-ac6f-94c6d69864b8%3Arxswift.png?table=block&id=2c8113de-b78e-80d8-96ff-d53c5eb37508&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=260&userId=&cache=v2" width="80" height="80"/>
+      </a><br/>
+      <p>introToRxSwift</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/Movie">
+        <img src="https://github.com/danielleseragioli/Movie/blob/main/Movie/Movie/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>Movie</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/Mais2">
+        <img src="https://github.com/danielleseragioli/Mais2/blob/main/Mais2/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>Mais2</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/CEP">
+        <img src="https://github.com/danielleseragioli/CEP/blob/main/CEP/CEPproject/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>CEP</p>
+    </td>
+  </tr>
 
-  <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/EggTimer">
+        <img src="https://github.com/danielleseragioli/EggTimer/blob/main/EggTimer/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>EggTimer</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/JogoDados">
+        <img src="https://github.com/danielleseragioli/JogoDados/blob/main/JogoDados/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>JogoDados</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/AlcoolOuGasolina">
+        <img src="https://github.com/danielleseragioli/AlcoolOuGasolina/blob/main/Alcool%20ou%20Gasolina/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>AlcoolOuGasolina</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/To-do">
+        <img src="https://github.com/danielleseragioli/To-do/blob/main/Lista%20de%20tarefas/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>To-do</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/Jokenpo">
+        <img src="https://github.com/danielleseragioli/Jokenpo/blob/main/Jokenpo/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>Jokenpo</p>
+    </td>
+  </tr>
 
-  <a href="https://github.com/danielleseragioli/ft_printf">
-      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
-  </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/ConversorCompleto">
+        <img src="https://github.com/danielleseragioli/ConversorCompleto/blob/main/Conversor%20Completo/Assets.xcassets/AppIcon.appiconset/icon1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>ConversorCompleto</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/ConversorMoedas">
+        <img src="https://github.com/danielleseragioli/ConversorMoedas/blob/main/Conversor%20de%20Moedas/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>ConversorMoedas</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/ConversorTemperaturas">
+        <img src="https://github.com/danielleseragioli/ConversorTemperaturas/blob/main/Conversor%20de%20Temperaturas/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>ConversorTemp</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/IMC">
+        <img src="https://github.com/danielleseragioli/IMC/blob/main/IMC/Assets.xcassets/AppIcon.appiconset/icon1024.png?raw=true" width="80" height="80"/>
+      </a><br/>
+      <p>IMC</p>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/danielleseragioli/get_next_line">
-      <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
-  </a> 
-
-  </div>
 
 
 
