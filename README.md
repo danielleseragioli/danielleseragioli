@@ -168,7 +168,7 @@
 <table >
   <tr>
     <td align="center">
-      <a href="https://github.com/danielleseragioli/dramaland">
+      <a href="https://github.com/danielleseragioli/piscine_web">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_web_pin.png?raw=true" width="120" height="120"/>
       </a><br/>
       <p>dramaland</p>
