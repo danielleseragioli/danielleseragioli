@@ -13,7 +13,6 @@
 
 <br><br>
 <img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
-<br>
 
 <table>
   <tr>
@@ -56,15 +55,13 @@
 </table>
 <br>
 
-
-
-
 <!-- PROJETOS SWIFT -->
 
-<br><br>
+<br>
 <img width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3A7f6da860-2f03-4173-81bf-6c53dc598518%3Adivider2_(1).png?table=block&id=2c8113de-b78e-8083-a482-f1e1ffbfac07&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" />
 
-<table align="left">
+<br>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/danielleseragioli/dramaland">
@@ -158,7 +155,26 @@
     </td>
   </tr>
 </table>
+<br>
 
+
+
+<!-- PROJETOS WEB -->
+
+<br>
+<img width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ae5bd26a9-3398-417f-b08d-f3a798086d3b%3Adivider_3.png?table=block&id=2c8113de-b78e-80ae-8826-eca1574e2a08&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
+
+<br>
+<table >
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/dramaland">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_web_pin.png?raw=true" width="120" height="120"/>
+      </a><br/>
+      <p>dramaland</p>
+    </td>
+  </tr>
+</table>
 
 
 
