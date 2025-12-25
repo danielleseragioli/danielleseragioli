@@ -171,7 +171,13 @@
       <a href="https://github.com/danielleseragioli/piscine_web">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_web_pin.png?raw=true" width="120" height="120"/>
       </a><br/>
-      <p>dramaland</p>
+      <p>piscine_web</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/cariocaDaGema">
+        <br><img src="https://spotty-grenadilla-d26.notion.site/image/attachment%3A2f6c7936-ef4d-4ea3-b469-9311d45c1b2a%3Aimage_436.png?table=block&id=2d4113de-b78e-8073-9d0e-c07193967025&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=300&userId=&cache=v2" width="80" height="80"/>
+      </a><br><br>
+      <p>cariocaDaGema</p>
     </td>
   </tr>
 </table>
