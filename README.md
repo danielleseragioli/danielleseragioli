@@ -8,10 +8,11 @@
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> 
+<br><br>
 
 <!-- PROJETOS C -->
 
-<br><br>
+<br>
 <img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
 
 <table>
@@ -54,7 +55,6 @@
   </tr>
 </table>
 <br>
-
 <!-- PROJETOS SWIFT -->
 
 <br>
