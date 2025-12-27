@@ -7,12 +7,12 @@
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> 
-<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
+<img src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ad5fd11f2-57f8-4c2e-9b51-19eea3392ef9%3Adivider.png?table=block&id=2d6113de-b78e-80e1-af1a-e6fff30fad4e&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2" height="50"> 
 
 <!-- PROJETOS C -->
 
-<br>
+
 <img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
 
 <table>
