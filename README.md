@@ -37,8 +37,10 @@
       </a><br/>
       <p>ft_printf</p>
     </td>
+  </tr>
 
-  <td align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/danielleseragioli/get_next_line">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png" width="120" height="120"/>
       </a><br/>
@@ -51,10 +53,18 @@
       </a><br/>
       <p>exam rank 02</p>
     </td>
-    
+
+  <td align="center">
+      <a href="https://github.com/danielleseragioli/push_swap">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/push_swap_pin_bonus.png" width="120" height="120"/>
+      </a><br/>
+      <p>push_swap</p>
+    </td>
   </tr>
 </table>
-<br>
+
+
+
 <!-- PROJETOS SWIFT -->
 
 <br>
