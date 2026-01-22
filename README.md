@@ -12,9 +12,7 @@
 
 <!-- PROJETOS C -->
 
-
 <img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
-
 <table>
   <tr>
     <td align="center">
@@ -37,10 +35,8 @@
       </a><br/>
       <p>ft_printf</p>
     </td>
-  </tr>
 
-  <tr>
-    <td align="center">
+  <td align="center">
       <a href="https://github.com/danielleseragioli/get_next_line">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png" width="120" height="120"/>
       </a><br/>
@@ -62,6 +58,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
