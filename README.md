@@ -59,9 +59,6 @@
   </tr>
 </table>
 
-
-
-
 <!-- PROJETOS SWIFT -->
 
 <br>
@@ -190,7 +187,22 @@
 </table>
 
 
+<!-- PROJETOS PY -->
 
+<br>
+<img width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Aa7c1b147-0257-4b18-9894-37095b9dda65%3Adivider_4.png?table=block&id=307113de-b78e-80d6-86f2-fb82d0c4ed69&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
+
+<br>
+<table >
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/modules_python">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/python_modules_pin.png?raw=true" width="120" height="120"/>
+      </a><br/>
+      <p>modules_python</p>
+    </td>
+  </tr>
+</table>
 <!--
 gif sem corte
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
