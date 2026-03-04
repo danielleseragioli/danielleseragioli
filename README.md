@@ -5,8 +5,11 @@
 
 <a href = "mailto:danielle.seragioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielle-seragioli-2101b0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![42Porto](https://img.shields.io/badge/42%20Porto-ffb347?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/dseragio)
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
+
 <br>
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
 <img src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ad5fd11f2-57f8-4c2e-9b51-19eea3392ef9%3Adivider.png?table=block&id=2d6113de-b78e-80e1-af1a-e6fff30fad4e&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2" height="50"> 
 
