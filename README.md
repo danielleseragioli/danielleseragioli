@@ -202,6 +202,12 @@
       </a><br/>
       <p>modules_python</p>
     </td>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/a_maze_ing">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/a_maze_ing_pin_bonus.png?raw=true" width="120" height="120"/>
+      </a><br/>
+      <p>a_maze_ing</p>
+    </td>
   </tr>
 </table>
 <!--
