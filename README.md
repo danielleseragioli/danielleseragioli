@@ -8,11 +8,9 @@
 [![42Porto](https://img.shields.io/badge/42%20Porto-ffb347?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/dseragio)
 [![ Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://brasil.uxdesign.cc/calmamente-simplificando-o-acesso-ao-atendimento-psicol%C3%B3gico-remoto-no-pa%C3%ADs-98fa887765f5)
 
-<br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
 <img src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ad5fd11f2-57f8-4c2e-9b51-19eea3392ef9%3Adivider.png?table=block&id=2d6113de-b78e-80e1-af1a-e6fff30fad4e&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1360&userId=&cache=v2" height="50"> 
-
+<br>
 <!-- PROJETOS C -->
 
 <img  width="300" src="https://spotty-grenadilla-d26.notion.site/image/attachment%3Ab11572dc-4839-4642-937f-106db9bf0c78%3Adivider_1_(1).png?table=block&id=2c8113de-b78e-80d7-a7db-cd93ebe48ce6&spaceId=d1b02b65-6f05-41fb-9868-69f5ce300038&width=1000&userId=&cache=v2" /> 
@@ -246,7 +244,13 @@ imagens antigas:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5dDB3dGZ2c2JnOWZucmF6dXpza3dkOHVmZWZldDF1N3J0aWEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height="200" /><a href="https://github.com/danielleseragioli"></a>
 </p>
 
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> 
+<!-- 
+
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> <br>
+
+
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/dseragio?1337Badge=off&UM6P=off" alt="dseragio's 42 stats" /></a> 
 
   <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
 
