@@ -43,18 +43,24 @@
       </a><br/>
       <p>get_next_line</p>
     </td>
-
-  <td align="center">
+    <td align="center">
       <a href="https://github.com/danielleseragioli/push_swap">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/push_swap_pin_bonus.png" width="120" height="120"/>
       </a><br/>
       <p>push_swap</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/danielleseragioli/42_exam_rank02">
         <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/exam2_pin.png" width="120" height="120"/>
       </a><br/>
       <p>exam rank 02</p>
+    <td align="center">
+      <a href="https://github.com/danielleseragioli/42_exam_rank03">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/exam3_pin.png" width="120" height="120"/>
+      </a><br/>
+      <p>exam rank 03</p>
     </td>
   </tr>
 </table>
